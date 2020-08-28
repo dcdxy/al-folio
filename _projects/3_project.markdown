@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: peaKO
+description: software for finding motifs in ChIP-seq data with KO controls
+img: /assets/img/cactus-unsplash.jpg
+redirect: https://peako.hoffmanlab.org/
+importance: 1
 ---
 
 Every project has a beautiful feature showcase page.
